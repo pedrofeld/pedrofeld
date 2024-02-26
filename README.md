@@ -1,4 +1,7 @@
-### Bem-vindo ao meu espaço digital!
+### Bem-vindo ao meu espaço digital
+
+<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+
 Eu sou o Pedro, trabalho em uma empresa de iluminação na parte de Engenharia Mecânica, mas estou estudando para migrar para o Desenvolvimento de Software.
 
 <hr>
@@ -26,9 +29,13 @@ Eu sou o Pedro, trabalho em uma empresa de iluminação na parte de Engenharia M
 
 <hr>
 
+![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
+
+<hr>
+
 #### Contate-me
 
-<div style="display: inline">
+<div style="display: inline" align= "center">
   <a href="https://wa.me/5551986008003" target="_blank">
     <img width"50" height"50" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
