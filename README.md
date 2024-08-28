@@ -11,9 +11,9 @@ Eu sou o Pedro, trabalho em uma empresa de iluminação na parte de Engenharia M
 - Auxiliar de **desenvolvimento de produto** na [Stella Iluminação](https://stella.com.br/).
 - Estudante de **Desenvolvimento Web Full Stack** na [Growdev](https://www.growdev.com.br/).
 - **Idiomas**: português, inglês e francês.
-- **Habilidades técnicas**: HTML, CSS, JavaScript e Bootstrap.
-- **Formação**: Administração, Design Gráfico, SketchUp e Robótica.
-- **Soft skills**: pensamento crítico, resolução de problemas, criatividade e comunicação.
+- **Habilidades técnicas**: HTML, CSS, JavaScript, Typescript, React e Bootstrap.
+- **Formação**: Administração, Design Gráfico e Robótica.
+- **Soft skills**: pensamento crítico, capacidade de síntese e comunicação.
 - **Hobbies**: desenho realista, danças urbanas e automobilismo.
 
 <hr>
@@ -24,6 +24,8 @@ Eu sou o Pedro, trabalho em uma empresa de iluminação na parte de Engenharia M
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
