@@ -2,19 +2,23 @@
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-Eu sou o Pedro, trabalho em uma empresa de iluminação na parte de Engenharia Mecânica, mas estou estudando para migrar para o Desenvolvimento de Software.
+Estou cursando um tecnólogo em Análise e Desenvolvimento de Sistemas, em paralelo a um bootcamp de 
+Desenvolvimento Web Full Stack. Atualmente, atuo como analista de sistemas, fazendo a mediação entre os 
+stakeholders e a equipe de desenvolvimento. Sou responsável por mapear demandas, passá-las para os 
+programadores e testar a aplicação final para garantir que o resultado atenda às expectativas. Possuo conhecimento 
+em levantamento de requisitos, documentação e testes funcionais.
 
 <hr>
 
 #### Sobre mim
 
 - Auxiliar de **desenvolvimento de produto** na [Stella Iluminação](https://stella.com.br/).
+- Estudante de **Análise e Desenvolvimento de Sistemas** na [Uninter](https://www.uninter.com/graduacao/a-distancia/?gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3i2xlBFYr25Bunsh96NdNV040IKLhjCjm6R0YJ5AWbTqMrKCmiEN9RoCAKYQAvD_BwE&gclsrc=aw.ds)
 - Estudante de **Desenvolvimento Web Full Stack** na [Growdev](https://www.growdev.com.br/).
 - **Idiomas**: português, inglês e francês.
-- **Habilidades técnicas**: HTML, CSS, JavaScript, Typescript, React e Bootstrap.
-- **Formação**: Administração, Design Gráfico e Robótica.
+- **Cursos**: Administração, Design Gráfico, Robótica e  Testes de Software Manuais.
 - **Soft skills**: pensamento crítico, capacidade de síntese e comunicação.
-- **Hobbies**: desenho realista, danças urbanas e automobilismo.
+- **Hobbies**: tecnologia, automobilismo e danças urbanas.
 
 <hr>
 
