@@ -1,8 +1,6 @@
 ### Bem-vindo ao meu espaço digital
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
-Estou cursando um tecnólogo em Análise e Desenvolvimento de Sistemas, em paralelo a um bootcamp de 
+Eu sou o Pedro, estou cursando um tecnólogo em Análise e Desenvolvimento de Sistemas, em paralelo a um bootcamp de 
 Desenvolvimento Web Full Stack. Atualmente, atuo como analista de sistemas, fazendo a mediação entre os 
 stakeholders e a equipe de desenvolvimento. Sou responsável por mapear demandas, passá-las para os 
 programadores e testar a aplicação final para garantir que o resultado atenda às expectativas. Possuo conhecimento 
@@ -32,10 +30,6 @@ em levantamento de requisitos, documentação e testes funcionais.
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
-<hr>
-
-![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
 
 <hr>
 
