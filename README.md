@@ -10,7 +10,7 @@ em levantamento de requisitos, documentação e testes funcionais.
 
 #### Sobre mim
 
-- Auxiliar de **desenvolvimento de produto** na [Stella Iluminação](https://stella.com.br/).
+- **Assistente Administrativo de Engenharia** na [Stella Iluminação](https://stella.com.br/).
 - Estudante de **Análise e Desenvolvimento de Sistemas** na [Uninter](https://www.uninter.com/graduacao/a-distancia/?gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3i2xlBFYr25Bunsh96NdNV040IKLhjCjm6R0YJ5AWbTqMrKCmiEN9RoCAKYQAvD_BwE&gclsrc=aw.ds)
 - Estudante de **Desenvolvimento Web Full Stack** na [Growdev](https://www.growdev.com.br/).
 - **Idiomas**: português, inglês e francês.
