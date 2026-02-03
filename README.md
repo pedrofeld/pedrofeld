@@ -1,15 +1,23 @@
-<h1 align="center">Olá, eu sou o Pedro Feld!</h1>
+<h1 align="center">Olá, eu sou o Pedro Feld</h1>
 <h3 align="center">Sou Desenvolvedor Full Stack</h3>
-
-![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVvaTh1cWx1OXZtbXpnZjVyNHExZHM1NjVxZm5tb3dlaWZibXNmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif)
 
 <br>
 
-Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack. Atuo no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor.
+<div align="center">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0dnVqcW1hcjFzNmU4Ynd5eXE0dWhoMHhzcTNvMTc5c3Bjc2Z1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" 
+    width="300" 
+    alt="GIF animado"
+  />
+</div>
+
+<br>
+
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack. Atuo no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor!
 
 <hr>
 
-#### Sobre mim
+#### 👦🏻 Sobre mim
 
 - **Auxiliar de desenvolvimento de produto** na [Stella Iluminação](https://stella.com.br/).
 - Estudante de **Análise e Desenvolvimento de Sistemas** na [Uninter](https://www.uninter.com/graduacao/a-distancia/?gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3i2xlBFYr25Bunsh96NdNV040IKLhjCjm6R0YJ5AWbTqMrKCmiEN9RoCAKYQAvD_BwE&gclsrc=aw.ds)
@@ -20,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
 
 <hr>
 
-#### Skills
+#### 👨‍💻 Skills
 
 <div style="display: inline" align="center">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -29,11 +37,19 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
 <hr>
 
-#### Experiência Profissional
+#### 💼 Trabalho atual
 
 **Suporte de Engenharia** - Atuação com:
 - Mapeamento de demandas e levantamento de requisitos
@@ -43,7 +59,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
 
 <hr>
 
-#### Contate-me
+#### 📞 Contate-me
 
 <div style="display: inline" align= "center">
   <a href="https://wa.me/5551986008003" target="_blank">
