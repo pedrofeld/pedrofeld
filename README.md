@@ -49,6 +49,16 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
 
 <hr>
 
+#### 🏆 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias | Tipo |
+|---------|-----------|-------------|-------|
+| [Growflix](https://growflix-pi.vercel.app/) | Plataforma de streaming baseada na Netflix | HTML, CSS, JS e Bootstrap | Front-end
+| [GrowTwitter](https://documenter.getpostman.com/view/34456709/2sB3Wqv1Z9) | Rede social baseada no Twitter | API REST, TS, Node.js, Express.js, Prisma ORM, PostgreSQL, CORS, bcrypt | Back-end
+| [Task List](https://task-list-dun-six.vercel.app/) | Gerenciador de tarefas | JS, React e Tailwind | Front-end
+
+<hr>
+
 #### 💼 Trabalho atual
 
 **Suporte de Engenharia** - Atuação com:
