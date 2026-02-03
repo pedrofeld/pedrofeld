@@ -1,28 +1,23 @@
 ### Bem-vindo ao meu espaço digital
 
-Eu sou o Pedro, estou cursando um tecnólogo em Análise e Desenvolvimento de Sistemas, em paralelo a um bootcamp de 
-Desenvolvimento Web Full Stack. Atualmente, atuo como analista de sistemas, fazendo a mediação entre os 
-stakeholders e a equipe de desenvolvimento. Sou responsável por mapear demandas, passá-las para os 
-programadores e testar a aplicação final para garantir que o resultado atenda às expectativas. Possuo conhecimento 
-em levantamento de requisitos, documentação e testes funcionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack, atuando no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor.
 
 <hr>
 
 #### Sobre mim
 
-- **Assistente Administrativo de Engenharia** na [Stella Iluminação](https://stella.com.br/).
+- **Auxiliar de desenvolvimento de produto** na [Stella Iluminação](https://stella.com.br/).
 - Estudante de **Análise e Desenvolvimento de Sistemas** na [Uninter](https://www.uninter.com/graduacao/a-distancia/?gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3i2xlBFYr25Bunsh96NdNV040IKLhjCjm6R0YJ5AWbTqMrKCmiEN9RoCAKYQAvD_BwE&gclsrc=aw.ds)
 - Estudante de **Desenvolvimento Web Full Stack** na [Growdev](https://www.growdev.com.br/).
 - **Idiomas**: português, inglês e francês.
-- **Cursos**: Administração, Design Gráfico, Robótica e  Testes de Software Manuais.
 - **Soft skills**: pensamento crítico, capacidade de síntese e comunicação.
-- **Hobbies**: tecnologia, automobilismo e danças urbanas.
+- **Hobbies**: tecnologia e jogos.
 
 <hr>
 
 #### Skills
 
-<div style="display: inline">
+<div style="display: inline" align="center">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -30,6 +25,16 @@ em levantamento de requisitos, documentação e testes funcionais.
   <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
+
+<hr>
+
+#### Experiência Profissional
+
+**Suporte de Engenharia** - Atuação com:
+- Mapeamento de demandas e levantamento de requisitos
+- Documentação técnica e controle de processos internos
+- Atendimento N1 e testes manuais
+- Mediação entre stakeholders e equipe técnica
 
 <hr>
 
@@ -46,3 +51,13 @@ em levantamento de requisitos, documentação e testes funcionais.
     <img width"50" height"50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<hr>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
