@@ -1,6 +1,11 @@
-### Bem-vindo ao meu espaço digital
+<h1 align="center">Olá, eu sou o Pedro Feld!</h1>
+<h3 align="center">Sou Desenvolvedor Full Stack</h3>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack, atuando no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor.
+![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVvaTh1cWx1OXZtbXpnZjVyNHExZHM1NjVxZm5tb3dlaWZibXNmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif)
+
+<br>
+
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack. Atuo no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor.
 
 <hr>
 
