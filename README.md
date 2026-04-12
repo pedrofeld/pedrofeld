@@ -13,18 +13,18 @@
 
 <br>
 
-Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack. Atuo no setor de Suporte de Engenharia enquanto busco minha primeira oportunidade formal como desenvolvedor!
+Transformando ideias em soluções digitais, utilizando tecnologias com foco em resultado e desenvolvimento com visão de produto.
 
 <hr>
 
 #### 👦🏻 Sobre mim
 
-- Auxiliar de desenvolvimento de produto na [Stella Iluminação](https://stella.com.br/).
+- Desenvolvedor Junior na [Stella Iluminação](https://stella.com.br/).
 - Estudante e MONITOR 2026 de **Análise e Desenvolvimento de Sistemas** na [Uninter](https://www.uninter.com/graduacao/a-distancia/?gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3i2xlBFYr25Bunsh96NdNV040IKLhjCjm6R0YJ5AWbTqMrKCmiEN9RoCAKYQAvD_BwE&gclsrc=aw.ds).
-- Estudante de **Desenvolvimento Web Full Stack** na [Growdev](https://www.growdev.com.br/).
+- Formado em **Desenvolvimento Web Full Stack** pela [Growdev](https://www.growdev.com.br/).
 - **Idiomas**: português, inglês e francês.
-- **Soft skills**: pensamento crítico, capacidade de síntese e comunicação.
-- **Hobbies**: tecnologia e esportes.
+- **Soft skills**: pensamento sistêmico, capacidade de síntese e comunicação.
+- **Hobbies**: tecnologia, esportes e automobilismo.
 
 <hr>
 
@@ -45,6 +45,8 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" />
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=IYQQHplg11Ie&format=png&color=000000" />
 </div>
 
 <hr>
@@ -61,11 +63,11 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full S
 
 #### 💼 Trabalho atual
 
-**Suporte de Engenharia** - Atuação com:
-- Mapeamento de demandas e levantamento de requisitos
-- Documentação técnica e controle de processos internos
-- Atendimento N1 e testes manuais
-- Mediação entre stakeholders e equipe técnica
+**Desenvolvedor Junior** - Atuação com:
+- Desenvolvimento e documentação de software
+- Desenvolvimento web e mobile
+- Automação residencial e IoT
+- Agentic workflows
 
 <hr>
 
