@@ -30,24 +30,40 @@ Transformando ideias em soluções digitais, utilizando tecnologias com foco em 
 
 #### 👨‍💻 Skills
 
-<div style="display: inline" align="center">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
-  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" />
-  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=IYQQHplg11Ie&format=png&color=000000" />
-</div>
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+#### 📱 Mobile
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### ☁️ Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-003A8F?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-005571?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <hr>
 
@@ -55,9 +71,10 @@ Transformando ideias em soluções digitais, utilizando tecnologias com foco em 
 
 | Projeto | Descrição | Tecnologias | Tipo |
 |---------|-----------|-------------|-------|
-| [Growflix](https://growflix-pi.vercel.app/) | Plataforma de streaming baseada na Netflix | HTML, CSS, JS e Bootstrap | Front-end
-| [GrowTwitter](https://documenter.getpostman.com/view/34456709/2sB3Wqv1Z9) | Rede social baseada no Twitter | API REST, TS, Node.js, Express.js, Prisma ORM, PostgreSQL, CORS, bcrypt | Back-end
-| [Task List](https://task-list-dun-six.vercel.app/) | Gerenciador de tarefas | JS, React e Tailwind | Front-end
+| [Growflix](https://growflix-pi.vercel.app/) | Plataforma de streaming baseada na Netflix | HTML, CSS, Javascript e Bootstrap | Front-end
+| [GrowTwitter API](https://documenter.getpostman.com/view/34456709/2sB3Wqv1Z9) | Rede social baseada no Twitter | API REST, Node.js, Express.js, Typescript, Prisma ORM, PostgreSQL, CORS, bcrypt, JWT | Back-end
+| [Growtwitter App](https://growtwitter-app-theta.vercel.app/login) | Rede social baseada no Twitter | React, Vite, Styled Components, Typescript | Front-end
+| [Task List](https://task-list-dun-six.vercel.app/) | Gerenciador de tarefas | Javascript, React e Tailwind | Front-end
 
 <hr>
 
